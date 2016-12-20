@@ -5,9 +5,9 @@
 
 * ABA Business Law Section Legal Analytics Prototype Jam
 
-* January 26, 2017
+* January 26, 2017 Event [Promo](http://prototypejam.org/promo.html)
 
-* Event [Promo](http://prototypejam.org/promo.html)
+* Initial [Event Materials](https://github.com/LegalAnalytics/PrototypeJam/tree/master/Materials)
 
 
 Static [prototypejam.org](http://prototypejam.org) front page. 
