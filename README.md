@@ -1,9 +1,14 @@
 # Business Law and Technology Prototype Jam
 
-Upcoming Prototype Event:
+**Placeholder Page for Upcoming Prototype Even**
+
+
 * ABA Business Law Section Legal Analytics Prototype Jam
+
 * January 26, 2017
-* Event [Promo](http://prototypejam.org/promot.html)
+
+* Event [Promo](http://prototypejam.org/promo.html)
+
 
 Static [prototypejam.org](http://prototypejam.org) front page. 
 
