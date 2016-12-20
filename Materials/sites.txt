@@ -1,0 +1,27 @@
+adrive
+http://www.adrive.com/terms
+amazon web services
+https://aws.amazon.com/terms/
+apple iwork
+http://www.apple.com/legal/iworkcom/en/terms.html
+mozy
+http://mozy.com/about/legal/terms/
+elastichosts
+https://www.elastichosts.com/terms-of-service/
+facebook
+https://www.facebook.com/terms.php
+flexiant
+https://www.flexiant.com/terms-of-use/
+gogrid
+https://www.datapipe.com/gogrid/legal/terms_of_service/
+google
+https://www.google.com/intl/en/policies/terms/
+joyent
+https://www.joyent.com/about/policies/terms-of-service/
+rackspace
+http://www.rackspace.co.uk/legal/website-terms-of-use/
+zoho
+https://www.zoho.com/terms.html
+basecamp
+https://basecamp.com/about/policies/terms
+end
